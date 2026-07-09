@@ -1,0 +1,6 @@
+numpy
+nibabel
+matplotlib
+scikit-learn
+tqdm
+torch
